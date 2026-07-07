@@ -43,13 +43,12 @@
 ![Sobre mí](img/captura_about.png)  
 
 ### Vista del portafolio desde navegador móvil
-![Servicios](img/captura_responsive_service.png)  
-![Formación](img/captura_responsive_formacion.png)  
+![Servicios](img/captura_responsive_service.png) ![Formación](img/captura_responsive_formacion.png)  
 ---
 
 ## Enlaces
-- **Repositorio en GitHub:** 
-- **GitHub Pages (portafolio en vivo):** 
+- **Repositorio en GitHub:** (https://github.com/WilverAFS/Actividad_4_Portafolio_Web)
+- **GitHub Pages (portafolio en vivo):** (https://wilverafs.github.io/Actividad_4_Portafolio_Web/)
 
 ---
 
